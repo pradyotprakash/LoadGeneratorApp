@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Rampo/Dropbox/Workspace/My%20GitHub/UpdateChecker/library/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="amazonStore">متجر أمازون للتطبيقات</string>
+    <string name="dialogNegativeButton">لا,شكرا</string>
+    <string name="dialogNeutralButton">لاحقا</string>
+    <string name="dialogPositiveButton">موافق</string>
+    <string name="downloadFor">أنظر للتحديث الجديد لـ %1$s!\متوفر الآن على  %2$s.</string>
+    <string name="googlePlay">قوقل بلاي</string>
+    <string name="library_name">مراجع التحديث</string>
+    <string name="newUpdateAvailable">هنالك تحديث جديد</string>
+</resources>

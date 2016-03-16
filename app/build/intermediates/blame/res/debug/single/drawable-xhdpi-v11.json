@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pradyot/Desktop/loadgenerator/app/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_amazon.png",
+        "source": "/home/pradyot/Desktop/loadgenerator/app/build/intermediates/exploded-aar/com.github.rampo.updatechecker/library/2.1.8/res/drawable-xhdpi-v11/ic_stat_amazon.png"
+    },
+    {
+        "merged": "/home/pradyot/Desktop/loadgenerator/app/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_play_store.png",
+        "source": "/home/pradyot/Desktop/loadgenerator/app/build/intermediates/exploded-aar/com.github.rampo.updatechecker/library/2.1.8/res/drawable-xhdpi-v11/ic_stat_play_store.png"
+    }
+]

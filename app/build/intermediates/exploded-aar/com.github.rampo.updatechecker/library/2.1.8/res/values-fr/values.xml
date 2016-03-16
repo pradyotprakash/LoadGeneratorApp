@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Rampo/Dropbox/Workspace/My%20GitHub/UpdateChecker/library/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="dialogNegativeButton">Non merci</string>
+    <string name="dialogNeutralButton">Plus tard</string>
+    <string name="dialogPositiveButton">OK</string>
+    <string name="downloadFor">Vérification d\'une nouvelle mise à jour pour %1$s!\nDisponible dès maintenant sur %2$s.</string>
+    <string name="library_name">Update Checker</string>
+    <string name="newUpdateAvailable">Nouvelle mise à jour trouvée</string>
+</resources>

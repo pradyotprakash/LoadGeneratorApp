@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Rampo/Dropbox/Workspace/My%20GitHub/UpdateChecker/library/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="dialogNegativeButton">Nem, köszönöm</string>
+    <string name="dialogNeutralButton">Később</string>
+    <string name="dialogPositiveButton">Frissítem</string>
+    <string name="downloadFor">Telepítsd az új %1$s verziót - már letölthető a %2$s-ről.</string>
+    <string name="newUpdateAvailable">Új frissítés érhető el</string>
+</resources>

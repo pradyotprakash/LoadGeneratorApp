@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Rampo/Dropbox/Workspace/My%20GitHub/UpdateChecker/library/src/main/res/values-et/strings.xml -->
+    <eat-comment/>
+    <string name="amazonStore">Amazon App Store</string>
+    <string name="dialogNegativeButton">Tänan, ei soovi</string>
+    <string name="dialogNeutralButton">Hiljem</string>
+    <string name="dialogPositiveButton">Alla laadida</string>
+    <string name="downloadFor">Nüüd saate alla laadida uut %1$s! versiooni %2$s</string>
+    <string name="googlePlay">Google Play</string>
+    <string name="library_name">Update Checker</string>
+    <string name="newUpdateAvailable">Uuendus</string>
+</resources>

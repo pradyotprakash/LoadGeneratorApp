@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Rampo/Dropbox/Workspace/My%20GitHub/UpdateChecker/library/src/main/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="amazonStore">Amazon App Store</string>
+    <string name="dialogNegativeButton">Paldies, nē</string>
+    <string name="dialogNeutralButton">Vēlāk</string>
+    <string name="dialogPositiveButton">Lejupielādēt</string>
+    <string name="downloadFor">Jau varat lejupielādēt jauno %1$s! versiju no %2$s</string>
+    <string name="googlePlay">Google Play</string>
+    <string name="library_name">Update Checker</string>
+    <string name="newUpdateAvailable"> Atjaunojums</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_74a8bae746ffb435254e5eb5b5984ff4c190b715.jar" />
+    </item>
+    <item
+        jar="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_6bb76e845c75bf33bf502797781d3de8860977d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_a36182603267e2e0a79d0f0db102443cc7b2d407.jar" />
+    </item>
+    <item
+        jar="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\libs\httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\httpcore-4.3.2_8fc800391ad3d175b740cb3dd34b2fa34373c9d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\libs\httpmime-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1dd0d38df9c6d21e893f2e52403f1cd99e91cd81">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\httpmime-4.3.5_2bf4737b7e02dbea380bda6f7ed4ada894bf4c60.jar" />
+    </item>
+    <item
+        jar="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1_6cb2c22bb827b69dad7a55d23f15eeb26c86c9a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\libs\commons-codec-1.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\commons-codec-1.10_de155c7f45577dc1ecfc18604fd98cd3762740e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\libs\httpclient-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9783d89b8eea20a517a4afc5f979bd2882b54c44">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\httpclient-4.3.5_7f46228225bd6e8d6baa9bcf286af1516fe6a7e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\libs\apache-mime4j-core-0.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a81264fe0265ebe8fd1d8128aad06dc320de6eef">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\apache-mime4j-core-0.7.2_096570a564c8c3e96e92566df6a47991fc9e962d.jar" />
+    </item>
+    <item
+        jar="C:\Users\RATHEESH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\RATHEESH\AndroidStudioProjects\loadgenerator\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_ccb6b064b5fe79c0eddd185323c4aa4ead4970f7.jar" />
+    </item>
+
+</items>

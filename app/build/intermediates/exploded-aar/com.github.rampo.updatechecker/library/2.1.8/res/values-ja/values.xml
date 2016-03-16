@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Rampo/Dropbox/Workspace/My%20GitHub/UpdateChecker/library/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="amazonStore">Amazon App Store</string>
+    <string name="dialogNegativeButton">無視する</string>
+    <string name="dialogNeutralButton">後で再度通知する</string>
+    <string name="dialogPositiveButton">ダウンロード</string>
+    <string name="downloadFor">%1$sの新しいバージョンが見つかりました。%2$sを開いてダウンロードしますか？</string>
+    <string name="googlePlay">Google Play</string>
+    <string name="library_name">Update Checker</string>
+    <string name="newUpdateAvailable">更新が見つかりました</string>
+</resources>
